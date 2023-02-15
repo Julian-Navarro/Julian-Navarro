@@ -21,3 +21,7 @@ desarrollado en Node.js con TypeScript, Express. Base de datos en PostgreSQL y T
 ● Proyecto Individual Dogs:
 - Es una app de razas de perros que incluye: ruta de detalle de los mismos con información, creación de tablas relacionales, formulario validado con js, búsquedas por raza, filtrados, ordenamientos.
 - Desarrollada usando para el Front React, Redux, CSS vanilla y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize.
+
+Contacto:
+Linkedin: https://www.linkedin.com/in/julian-navarro-b25938247/
+Wpp: +549 11-2740-8206
